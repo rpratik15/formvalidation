@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.title
+{
+    
+    height: 20vh;
+    width: 100%;
+    display: inline;
+    align-items: center;
+    text-align:center;
+}
+
+.navbar-brand
+{
+    
+    /* margin-left: 100px; */
+    width: 100%;
+   
+}
+.main{
+    width: 100%;
+    background-color: rgba(237, 230, 230, 0.813);
+}
+.container
+{
+    width: 100px;
+    height: 100vh;
+    margin: auto;
+    padding: 0px;
+    
+}
+
+#validation-form
+{
+    width: 70%;
+    margin: auto;
+   
+}
+
+.col-6
+{
+   margin: auto;
+  
+   text-align: center;
+}
